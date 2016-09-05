@@ -1,0 +1,11 @@
+Source: scibian-version
+Section: scibian
+Priority: optional
+Maintainer: Scibian Packaging Team <packaging@scibian.org>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.6
+
+Package: scibian-version
+Architecture: any
+Description: Scibian meta-package which indicate the scibian version installed 
+ To know which version is installed, use the command: "dpkg -l calibre-version"
