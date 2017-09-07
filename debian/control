@@ -1,0 +1,12 @@
+Source: scibian-version
+Section: scibian
+Priority: optional
+Maintainer: Scibian Packaging Team <packaging@scibian.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.0.0
+
+Package: scibian-version
+Architecture: all
+Description: Scibian meta-package which indicates 
+  the current scibian version installed. To know which 
+  version is installed use the command: "dpkg - scibian-version"

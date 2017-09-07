@@ -1,0 +1,5 @@
+scibian-version (9.0) scibian9; urgency=low
+
+  * Initial release
+
+ -- Scibian Packaging Team <packaging@scibian.org>  Tue, 11 Apr 2017 10:43:24 +0200

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -e
+
+SCIBIAN_VERSION=$(dpkg-query -W -f='${version}\n' scibian-version)
+echo "Scibian ${SCIBIAN_VERSION}" > /etc/issue
+
+exit 0
