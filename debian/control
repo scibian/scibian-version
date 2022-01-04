@@ -2,7 +2,7 @@ Source: scibian-version
 Section: scibian
 Priority: optional
 Maintainer: Scibian Packaging Team <packaging@scibian.org>
-Build-Depends: debhelper (>= 10)
+Build-Depends: debhelper (>= 11)
 Standards-Version: 4.0.0
 
 Package: scibian-version
