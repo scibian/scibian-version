@@ -1,3 +1,10 @@
+scibian-version (11.0) scibian11; urgency=medium
+
+  * Bump compat to 11
+  * Bump copyright year
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Tue, 04 Jan 2022 14:30:28 +0100
+
 scibian-version (9.1) scibian10; urgency=medium
 
   * New release for scibian10
